@@ -1,0 +1,6 @@
+{
+  "name": "SIVEMA EdLink",
+  "description": "Portal pembelajaran akademik mahasiswa interaktif untuk materi fisika tumbukan, tugas dengan navigasi soal bebas, media animasi simulasi, grafik nilai, dan umpan balik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
